@@ -55,6 +55,15 @@ class Square extends React.Component {
             <p>status</p>
             <p>status</p>
             <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
+            <p>status</p>
           </div>
         </div>
       );
